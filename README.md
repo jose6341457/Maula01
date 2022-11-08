@@ -1,2 +1,3 @@
 # Maula01
-Excercicio Aula1: CriaçãoReferente a aula de Métodos da Dio
+Excercicio Aula1: Criação
+Olá! Neste exercício estão codificados os exemplos da Aula 1 do curso de Métodos. Além disso também possui algumas explicações a mais
